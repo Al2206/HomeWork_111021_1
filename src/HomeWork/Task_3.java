@@ -13,6 +13,7 @@ public class Task_3 {
         System.out.println(" Ответ: большее число - " + b );
     } else if (c > d) {
         System.out.println(" Ответ: большее число - " + c );
-    }
+    } else if (c < d) {
+     System.out.println(" Ответ: большее число - " + d );
  }
 }
